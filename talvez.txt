@@ -1,0 +1,178 @@
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tribuna Santos SD³" tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="Canais",Globo TV Tribuna Santos SD³
+http://inovattiontv.com:80/teste8954hm/teste8954hm/42329
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT FullHD¹" tvg-logo="https://i.imgur.com/sDXpGNt.png" group-title="Canais",SBT FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/31639
+
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E FullHD¹" tvg-logo="https://i.imgur.com/MYimBe1.png" group-title="Canais¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/31916
+
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet FullHD¹" tvg-logo="https://i.imgur.com/FSpBdys.png" group-title="Canais",Animal Planet FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/31791
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FullHD¹" tvg-logo="https://i.imgur.com/TXytkc3.png" group-title=Canais",AXN FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/31919
+
+#EXTINF:-1 tvg-id="Band" tvg-name="Band FullHD¹" tvg-logo="https://i.imgur.com/EFikBBd.png" group-title="Canais",Band FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/31663
+
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="Band Sports FullHD¹" tvg-logo="https://i.imgur.com/4qhayiv.png" group-title="Canais",Band Sports FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/31851
+
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV FullHD¹" tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="Canais",SporTV FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/31817
+
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 FullHD¹" tvg-logo="https://i.imgur.com/fPPZSK5.png" group-title="Canais",SporTV 2 FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/31814
+
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 FullHD¹" tvg-logo="https://i.imgur.com/ituzo2n.png" group-title="Canais",SporTV 3 FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/31811
+
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS FullHD¹" tvg-logo="https://i.imgur.com/y6b7nzQ.png" group-title="Canais",BIS FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/37557
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax HD¹" tvg-logo="https://i.imgur.com/XnqFREo.png" group-title="Canais",Cinemax HD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/31903
+
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate FullHD¹" tvg-logo="https://i.imgur.com/WPmcn2I.png" group-title="Canais",Combate FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/31848
+
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel FullHD¹" tvg-logo="https://i.imgur.com/hIiJnWz.png" group-title="Canais",Discovery Channel FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/31788
+
+#EXTINF:-1 tvg-id="Example" tvg-name="EI Plus HD¹" tvg-logo="https://i.imgur.com/mdtxCZR.png" group-title="Canais",EI Plus HD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/31831
+
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN Brasil FullHD¹" tvg-logo="https://i.imgur.com/mNQCw2n.png" group-title="Canais",ESPN Brasil FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/31835
+
+#EXTINF:-1 tvg-id="ESPN +" tvg-name="ESPN 2 FullHD¹" tvg-logo="https://i.imgur.com/y5X2QWt.png" group-title="Canais",ESPN 2 FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/31838
+
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="Fish TV SD¹" tvg-logo="https://i.imgur.com/qS8OedV.png" group-title="Canais",Fish TV SD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/31828
+
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network FullHD³" tvg-logo="https://i.imgur.com/mmYRl9S.png" group-title="Canais",Food Network FullHD³
+http://inovattiontv.com:80/teste8954hm/teste8954hm/42372
+
+#EXTINF:-1 tvg-id="FOX" tvg-name="Fox FullHD¹" tvg-logo="https://i.imgur.com/OB6fAsa.png" group-title="Canais",Fox FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/31889
+
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life FullHD³" tvg-logo="https://i.imgur.com/GqXQdA6.png" group-title="Canais",Fox Life FullHD³
+http://inovattiontv.com:80/teste8954hm/teste8954hm/42375
+
+#EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="Fox Premium 1 FullHD¹" tvg-logo="https://i.imgur.com/O45MhbM.png" group-title="Canais",Fox Premium 1 FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/31894
+
+#EXTINF:-1 tvg-id="Fox Premium 2" tvg-name="Fox Premium 2 FullHD¹" tvg-logo="https://i.imgur.com/O45MhbM.png" group-title="Canais",Fox Premium 2 FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/31892
+
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports FullHD¹" tvg-logo="https://i.imgur.com/dLWrTma.png" group-title="Canais",Fox Sports FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/31823
+
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2 FullHD¹" tvg-logo="https://i.imgur.com/CYW9MdS.png" group-title="Canais",Fox Sports 2 FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/31822
+
+#EXTINF:-1 tvg-id="FX" tvg-name="FX FullHD¹" tvg-logo="https://i.imgur.com/EWKsvAH.png" group-title="Canais",FX FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/31886
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO FullHD¹" tvg-logo="https://i.imgur.com/y3grVzw.png" group-title="Canais",HBO FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/32034
+
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 FullHD¹" tvg-logo="https://i.imgur.com/VNGvD4X.png" group-title="Canais",HBO 2 FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/32031
+
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family FullHD¹" tvg-logo="https://i.imgur.com/2v8w0ef.png" group-title="Canais",HBO Family FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/32028
+
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO Plus FullHD¹" tvg-logo="https://i.imgur.com/zer3Zpn.png" group-title="Canais",HBO Plus FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/32025
+
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature FullHD¹" tvg-logo="https://i.imgur.com/3bQUcLm.png" group-title="Canais",HBO Signature FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/32020
+
+#EXTINF:-1 tvg-id="MAX" tvg-name="Max FullHD¹" tvg-logo="https://i.imgur.com/vqlXQbx.png" group-title="Canais",Max FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/32017
+
+#EXTINF:-1 tvg-id="MAX Prime" tvg-name="Max Prime FullHD¹" tvg-logo="https://i.imgur.com/oINud8w.png" group-title="Canais",Max Prime FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/32014
+
+#EXTINF:-1 tvg-id="MAX UP" tvg-name="Max Up FullHD¹" tvg-logo="https://i.imgur.com/UXGC3bv.png" group-title="Canais",Max Up FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/32009
+
+#EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount FullHD¹" tvg-logo="https://i.imgur.com/VpSGYOm.png" group-title="Canais",Paramount FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/31879
+
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM HD¹" tvg-logo="https://i.imgur.com/ShwJeRP.png" group-title="Canais",TCM HD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/31868
+
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal FullHD¹" tvg-logo="https://i.imgur.com/W2DX18j.png" group-title="Canais",Studio Universal FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/31873
+
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action FullHD¹" tvg-logo="https://i.imgur.com/jA3Gzh1.png" group-title="Canais",Telecine Action FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/32174
+
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult FullHD¹" tvg-logo="https://i.imgur.com/sw2ouTS.png" group-title="Canais",Telecine Cult FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/32171
+
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun FullHD¹" tvg-logo="https://i.imgur.com/lcxkVop.png" group-title="Canais",Telecine Fun FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/32168
+
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca FullHD¹" tvg-logo="https://i.imgur.com/ODdvtS6.png" group-title="Canais",Telecine Pipoca FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/32165
+
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premiun FullHD¹" tvg-logo="https://i.imgur.com/HJxe9Lf.png" group-title="Canais",Telecine Premiun FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/32162
+
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch FullHD¹" tvg-logo="https://i.imgur.com/ZACae07.png" group-title="Canais",Telecine Touch FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/32159
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC HD¹" tvg-logo="https://i.imgur.com/wx7Nf99.png" group-title="Canais",TLC HD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/37731
+
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF FullHD¹" tvg-logo="https://i.imgur.com/1q5BvWY.png" group-title="Canais",OFF FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/31808
+
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes FullHD¹" tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="Canais",Premiere Clubes FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/32116
+
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 FullHD¹" tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="Canais",Premiere 2 FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/32113
+
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 FullHD¹" tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="Canais",Premiere 3 FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/32110
+
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 FullHD¹" tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="Canais",Premiere 4 FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/32107
+
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 FullHD¹" tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="Canais",Premiere 6 FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/32101
+
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 FullHD¹" tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="Canais",Premiere 7 FullHD¹
+http://inovattiontv.com:80/teste8954hm/teste8954hm/32099
+
+#EXTINF:-1 tvg-id="Premiere 8" tvg-name="Premiere 8 SD³" tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="Canais",Premiere 8 SD³
+http://inovattiontv.com:80/teste8954hm/teste8954hm/42297
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
